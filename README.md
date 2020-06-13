@@ -6,6 +6,8 @@
 Ја добив групата на код 5
 
 Control Flow Graph
+![GitHub Logo](/SI_Lab2-v2.png)
+Format: ![Alt Text](url)
 
 Цикломатска комплексност 
 
