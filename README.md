@@ -7,7 +7,7 @@
 
 Control Flow Graph
 ![GitHub Logo](/SI_Lab2-v2.png)
-Format: ![Alt Text](url)
+Format: ![Alt Text]
 
 Цикломатска комплексност 
 
